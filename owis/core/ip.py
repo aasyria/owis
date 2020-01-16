@@ -4,3 +4,4 @@
 #TODO : get all IP Adress that can be set in our local NETWORK
 #TODO : ping all IP Adress
 #TODO : set all IP Address ,which give us Response in a list and give as result from our script .
+
