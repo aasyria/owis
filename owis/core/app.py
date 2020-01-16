@@ -1,5 +1,9 @@
+import owis.core.glass;
+import owis.core.ip
+
+
 def scan():
-    print("hello world")
+    return "hello world"
 
 
 if __name__ == '__main__':
